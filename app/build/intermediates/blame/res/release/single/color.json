@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProject\\AudioTest2\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\KingFish\\.android\\build-cache\\5bccef7539049f49ca42d68ced8003c0d559234e\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProject\\AudioTest2\\app\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\KingFish\\.android\\build-cache\\5bccef7539049f49ca42d68ced8003c0d559234e\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProject\\AudioTest2\\app\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\KingFish\\.android\\build-cache\\5bccef7539049f49ca42d68ced8003c0d559234e\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProject\\AudioTest2\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\KingFish\\.android\\build-cache\\5bccef7539049f49ca42d68ced8003c0d559234e\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProject\\AudioTest2\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\KingFish\\.android\\build-cache\\5bccef7539049f49ca42d68ced8003c0d559234e\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProject\\AudioTest2\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\KingFish\\.android\\build-cache\\5bccef7539049f49ca42d68ced8003c0d559234e\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProject\\AudioTest2\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\KingFish\\.android\\build-cache\\5bccef7539049f49ca42d68ced8003c0d559234e\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProject\\AudioTest2\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\KingFish\\.android\\build-cache\\5bccef7539049f49ca42d68ced8003c0d559234e\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProject\\AudioTest2\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\KingFish\\.android\\build-cache\\5bccef7539049f49ca42d68ced8003c0d559234e\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    }
+]

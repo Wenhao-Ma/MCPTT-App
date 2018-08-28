@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml
+application
+ADDED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml:5:5-18:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\KingFish\.android\build-cache\5bccef7539049f49ca42d68ced8003c0d559234e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\KingFish\.android\build-cache\c572fb4d806a1a7a369cde660c9f3ac375eefe0d\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\KingFish\.android\build-cache\be5c202152ce59e3275ae91deb40b8aac1c510be\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\KingFish\.android\build-cache\0f8ebd932f03ed53bcafa694f5ed2f98ad6b205f\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\KingFish\.android\build-cache\55482a6706443c5b69fc3eaa6ea442112e4dbf69\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.mwh.audiotest2.MainActivity
+ADDED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml:15:27-74
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml:20:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml:21:5-70
+	android:name
+		ADDED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml:21:22-68
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml:22:5-78
+	android:name
+		ADDED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml:23:5-75
+	android:name
+		ADDED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml:23:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml:24:5-78
+	android:name
+		ADDED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml:25:5-75
+	android:name
+		ADDED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml:25:22-73
+uses-permission#android.permission.INTERNET
+ADDED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml:26:22-64
+uses-sdk
+INJECTED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\KingFish\.android\build-cache\5bccef7539049f49ca42d68ced8003c0d559234e\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\KingFish\.android\build-cache\c572fb4d806a1a7a369cde660c9f3ac375eefe0d\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\KingFish\.android\build-cache\be5c202152ce59e3275ae91deb40b8aac1c510be\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\KingFish\.android\build-cache\0f8ebd932f03ed53bcafa694f5ed2f98ad6b205f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\KingFish\.android\build-cache\55482a6706443c5b69fc3eaa6ea442112e4dbf69\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\KingFish\.android\build-cache\5bccef7539049f49ca42d68ced8003c0d559234e\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioProject\AudioTest2\app\src\main\AndroidManifest.xml

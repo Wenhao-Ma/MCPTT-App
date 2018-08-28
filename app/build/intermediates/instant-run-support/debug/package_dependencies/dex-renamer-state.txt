@@ -1,0 +1,25 @@
+#Tue Mar 13 15:44:09 CST 2018
+renamed.7=classes6.dex
+renamed.6=classes7.dex
+renamed.5=classes2.dex
+renamed.4=classes.dex
+renamed.3=classes3.dex
+renamed.2=classes5.dex
+renamed.1=classes8.dex
+renamed.0=classes4.dex
+base.7=F\:\\AndroidStudioProject\\AudioTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_19852e1d518a464ede752d5f05c9e74322fdfa82
+base.6=F\:\\AndroidStudioProject\\AudioTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_7c7526f92528417579b271cc2e523426e41f5c96
+base.5=F\:\\AndroidStudioProject\\AudioTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4fc186e06b48d89f0479d5c4ed0405a52b159aea
+base.4=F\:\\AndroidStudioProject\\AudioTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_25f3b555300b32c607e325cad6cf4bf83a52078b
+base.3=F\:\\AndroidStudioProject\\AudioTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_62c5261f4df9c65777f8ca17514920dc5c3e5cb1
+base.2=F\:\\AndroidStudioProject\\AudioTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ecfb0bfd84a4d42f750820d8ce33fe9ce722682d
+base.1=F\:\\AndroidStudioProject\\AudioTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_4a1dba00b7a4a0d3b9863f2a0185fd78f1c060d9
+base.0=F\:\\AndroidStudioProject\\AudioTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_745d5e9127cbb4eae1d61187790cad0f5caf23a1
+file.7=F\:\\AndroidStudioProject\\AudioTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_19852e1d518a464ede752d5f05c9e74322fdfa82\\classes.dex
+file.6=F\:\\AndroidStudioProject\\AudioTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_7c7526f92528417579b271cc2e523426e41f5c96\\classes.dex
+file.5=F\:\\AndroidStudioProject\\AudioTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4fc186e06b48d89f0479d5c4ed0405a52b159aea\\classes.dex
+file.4=F\:\\AndroidStudioProject\\AudioTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_25f3b555300b32c607e325cad6cf4bf83a52078b\\classes.dex
+file.3=F\:\\AndroidStudioProject\\AudioTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_62c5261f4df9c65777f8ca17514920dc5c3e5cb1\\classes.dex
+file.2=F\:\\AndroidStudioProject\\AudioTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ecfb0bfd84a4d42f750820d8ce33fe9ce722682d\\classes.dex
+file.1=F\:\\AndroidStudioProject\\AudioTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_4a1dba00b7a4a0d3b9863f2a0185fd78f1c060d9\\classes.dex
+file.0=F\:\\AndroidStudioProject\\AudioTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_745d5e9127cbb4eae1d61187790cad0f5caf23a1\\classes.dex

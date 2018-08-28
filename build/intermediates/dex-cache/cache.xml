@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProject\AudioTest2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b3686b58c6f1ed83b3136bbea45dc1774813e598">
+        <dex dex="F:\AndroidStudioProject\AudioTest2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f0885327314d8675e647d7cbcb93d10873e23589\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KingFish\.android\build-cache\55482a6706443c5b69fc3eaa6ea442112e4dbf69\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\AndroidStudioProject\AudioTest2\app\build\intermediates\pre-dexed\debug\classes_25f3b555300b32c607e325cad6cf4bf83a52078b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KingFish\.android\build-cache\be5c202152ce59e3275ae91deb40b8aac1c510be\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\AndroidStudioProject\AudioTest2\app\build\intermediates\pre-dexed\debug\classes_4fc186e06b48d89f0479d5c4ed0405a52b159aea.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProject\AudioTest2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\AndroidStudioProject\AudioTest2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a6c9eb2444b48690627451d7a25093d9afabe6cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KingFish\.android\build-cache\c572fb4d806a1a7a369cde660c9f3ac375eefe0d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\AndroidStudioProject\AudioTest2\app\build\intermediates\pre-dexed\debug\classes_745d5e9127cbb4eae1d61187790cad0f5caf23a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\AndroidStudioProject\AudioTest2\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_4a1dba00b7a4a0d3b9863f2a0185fd78f1c060d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\AndroidStudioProject\AudioTest2\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_19852e1d518a464ede752d5f05c9e74322fdfa82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KingFish\.android\build-cache\5bccef7539049f49ca42d68ced8003c0d559234e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\AndroidStudioProject\AudioTest2\app\build\intermediates\pre-dexed\debug\classes_62c5261f4df9c65777f8ca17514920dc5c3e5cb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KingFish\.android\build-cache\0f8ebd932f03ed53bcafa694f5ed2f98ad6b205f\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\AndroidStudioProject\AudioTest2\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_7c7526f92528417579b271cc2e523426e41f5c96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KingFish\.android\build-cache\0f8ebd932f03ed53bcafa694f5ed2f98ad6b205f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\AndroidStudioProject\AudioTest2\app\build\intermediates\pre-dexed\debug\classes_ecfb0bfd84a4d42f750820d8ce33fe9ce722682d.jar" />
+    </item>
+
+</items>

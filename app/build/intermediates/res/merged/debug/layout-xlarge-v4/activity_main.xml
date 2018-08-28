@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.mwh.audiotest2.MainActivity"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/userID"
+        android:layout_width="wrap_content"
+        android:layout_height="44dp"
+        android:text="本机端口:4001"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp"
+        android:textSize="70px"
+        android:gravity="center"
+        android:layout_alignParentTop="true"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_alignStart="@+id/textView2"
+        android:layout_marginTop="23dp" />
+
+    <CheckBox
+        android:id="@+id/Mode1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="直接建立呼叫"
+        android:checked="true"
+        android:layout_marginTop="11dp"
+        android:layout_below="@+id/userID"
+        android:layout_alignLeft="@+id/userID"
+        android:layout_alignStart="@+id/userID" />
+
+    <CheckBox
+        android:id="@+id/Mode2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="半双工"
+        android:checked="true"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="91dp"
+        android:layout_below="@+id/Mode1"
+        android:layout_alignLeft="@+id/Mode1"
+        android:layout_alignStart="@+id/Mode1"
+        android:layout_marginTop="12dp" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView2"
+        android:layout_toRightOf="@+id/textView2"
+        android:ems="10"
+        android:inputType="text"
+        android:text="172.20.10.4" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="87dp"
+        android:layout_height="44dp"
+        android:text="呼叫方IP："
+        android:textSize="60px"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:textColor="@color/colorPrimaryDark"
+        android:maxLines="1"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/bt_stop"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="33dp"
+        android:layout_marginStart="33dp" />
+
+    <Button
+        android:id="@+id/bt_rej"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="拒绝"
+        android:visibility="invisible"
+        tools:layout_editor_absoluteX="57dp"
+        tools:layout_editor_absoluteY="362dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_alignBaseline="@+id/bt_ack"
+        android:layout_alignBottom="@+id/bt_ack"
+        android:layout_alignRight="@+id/editText"
+        android:layout_alignEnd="@+id/editText" />
+
+    <Button
+        android:id="@+id/bt_ack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="接听"
+        android:visibility="invisible"
+        tools:layout_editor_absoluteX="239dp"
+        tools:layout_editor_absoluteY="362dp"
+        android:layout_marginBottom="27dp"
+        android:layout_marginLeft="27dp"
+        android:layout_marginStart="27dp"
+        android:layout_above="@+id/bt_start"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_alignStart="@+id/textView2" />
+
+    <Button
+        android:id="@+id/bt_stop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="挂断"
+        tools:layout_editor_absoluteY="291dp"
+        tools:layout_editor_absoluteX="57dp"
+        android:visibility="visible"
+        android:layout_alignBaseline="@+id/bt_start"
+        android:layout_alignBottom="@+id/bt_start"
+        android:layout_alignLeft="@+id/bt_start"
+        android:layout_alignStart="@+id/bt_start"
+        android:layout_alignRight="@+id/bt_start"
+        android:layout_alignEnd="@+id/bt_start" />
+
+    <Button
+        android:id="@+id/bt_start"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="拨通"
+        tools:layout_editor_absoluteY="291dp"
+        tools:layout_editor_absoluteX="239dp"
+        android:layout_marginBottom="103dp"
+        android:visibility="invisible"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_alignStart="@+id/textView2"
+        android:layout_alignRight="@+id/callText"
+        android:layout_alignEnd="@+id/callText" />
+
+    <TextView
+        android:id="@+id/callText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="正在与用户172.20.10.4通话"
+        android:visibility="visible"
+        android:textSize="50px"
+        android:layout_marginBottom="10dp"
+        android:layout_above="@+id/callText2"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/ring"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="70px"
+        android:text="铃声~~"
+        android:visibility="invisible"
+        android:layout_alignBaseline="@+id/Mode2"
+        android:layout_alignBottom="@+id/Mode2"
+        android:layout_alignRight="@+id/bt_rej"
+        android:layout_alignEnd="@+id/bt_rej" />
+
+    <TextView
+        android:id="@+id/callText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="visible"
+        android:typeface="monospace"
+        android:textSize="40px"
+        android:text="对方占有话语权"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/bt_ptt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="抢占话语权"
+        android:visibility="visible"
+        android:layout_alignBaseline="@+id/bt_rej"
+        android:layout_alignBottom="@+id/bt_rej"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
